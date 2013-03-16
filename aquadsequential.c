@@ -1,3 +1,5 @@
+// Compile with gcc -o aquadsequential aquadsequential.c -lm
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
